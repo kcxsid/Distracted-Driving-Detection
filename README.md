@@ -28,10 +28,13 @@ validation accuracy of 85.71% and a test accuracy of 62.17% is hence obtained.
 
 ## The approach of Deep Learning is performed using CNNs. 
 
-VGG 16 (CNN): ![image](https://user-images.githubusercontent.com/31934083/182610762-f9e3976c-ef1e-49d8-a9fa-51814882dbe5.png)
+VGG 16 (CNN):
+![image](https://user-images.githubusercontent.com/31934083/182610762-f9e3976c-ef1e-49d8-a9fa-51814882dbe5.png)
 
-ResNet (CNN): ![image](https://user-images.githubusercontent.com/31934083/182610892-3ddbe27b-f8bf-428e-8efd-591e69776f4e.png)
+ResNet (CNN): 
+![image](https://user-images.githubusercontent.com/31934083/182610892-3ddbe27b-f8bf-428e-8efd-591e69776f4e.png)
 
-Activation Functions: ![image](https://user-images.githubusercontent.com/31934083/182611001-6460d855-1082-4c6d-aa0a-75a3a750292a.png)
+Activation Functions:
+![image](https://user-images.githubusercontent.com/31934083/182611001-6460d855-1082-4c6d-aa0a-75a3a750292a.png)
 
 
