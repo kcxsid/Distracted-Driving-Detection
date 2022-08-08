@@ -38,6 +38,13 @@ validation accuracy of 85.71% and a test accuracy of 62.17% is hence obtained.
 ![image](https://user-images.githubusercontent.com/31934083/182611001-6460d855-1082-4c6d-aa0a-75a3a750292a.png)
 
 ### Model Accuracies: 
-![Uploading Screen Shot 2022-08-08 at 5.54.04 pm.png…]()
 
+<img width="908" alt="image" src="https://user-images.githubusercontent.com/31934083/183368801-65eb0de5-3e43-402a-ac80-569026af87cb.png">
+
+<img width="908" alt="image" src="https://user-images.githubusercontent.com/31934083/183368722-d02bdba0-1e5e-4ae4-8167-29f4615747fa.png">
+
+
+<img width="908" alt="Screen Shot 2022-08-08 at 5 54 04 pm" src="https://user-images.githubusercontent.com/31934083/183368372-d52d54b7-d523-42f9-8bae-46328344b9b5.png">
+
+The accuracy of ResNet was 73.93% and VGG16 was 99.33% 
 
